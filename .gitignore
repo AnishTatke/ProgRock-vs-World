@@ -1,0 +1,12 @@
+Not_Progressive_Rock
+Progressive_Rock_Songs
+TestSet
+logs
+datasets
+models
+
+*.csv
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
